@@ -1,4 +1,4 @@
-# Assigments
+# Assignments
 Contains assignments from my python programming class
 ## Unit 1 Assignment 1:
 ## Unit 1 Assignment 2:
